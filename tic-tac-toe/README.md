@@ -1,6 +1,6 @@
-### Tic-Tac-Toe / Tic-Tac-Toe
+## Tic-Tac-Toe / Tic-Tac-Toe
 
-##### **Deutsch:**  
+#### **Deutsch:**  
 
 In diesem Projekt habe ich ein Tic-Tac-Toe-Spiel entwickelt, bei dem der Spieler gegen eine einfache KI antreten kann.  
 Das Programm ist modular aufgebaut, um Übersichtlichkeit und Wartbarkeit zu gewährleisten.  
@@ -11,7 +11,7 @@ Das Programm ist modular aufgebaut, um Übersichtlichkeit und Wartbarkeit zu gew
 
 Dieses Projekt zeigt, wie man **ein interaktives Spiel in Python strukturiert**, **Code modularisiert** und **eine einfache KI implementiert**.
 
-##### **English:**  
+#### **English:**  
 
 In this project, I created a Tic-Tac-Toe game where the player competes against a simple AI.  
 The program is structured modularly to ensure clarity and maintainability.  

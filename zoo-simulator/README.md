@@ -1,6 +1,6 @@
-### Interaktiver Zoo / Interactive Zoo
+## Interaktiver Zoo / Interactive Zoo
 
-##### **Deutsch:**  
+#### **Deutsch:**  
 
 In diesem Projekt habe ich einen interaktiven Zoo entwickelt, in dem der Nutzer verschiedene Tierarten auswählen und deren Verhalten beobachten kann.  
 Das Programm ist modular aufgebaut und nutzt objektorientierte Programmierung mit Basisklassen und Subklassen für unterschiedliche Tiere.  
@@ -12,7 +12,7 @@ Das Programm ist modular aufgebaut und nutzt objektorientierte Programmierung mi
 
 Dieses Projekt zeigt, wie man **OOP in Python** anwendet, **Module strukturiert** und **interaktive Programme** gestaltet.
 
-##### **English:**  
+#### **English:**  
 
 In this project, I created an interactive zoo where users can select different animal species and observe their behaviors.  
 The program is modular and uses object-oriented programming with a base class and subclasses for different animals.  
